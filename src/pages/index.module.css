@@ -1,0 +1,25 @@
+.heroBanner {
+    padding: 8rem 0;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    background: url('https://img11.360buyimg.com/img/jfs/t1/132752/9/22114/127574/61e7e1c2Ee45fd265/2bee94cf78123e66.jpg')
+        no-repeat bottom -330px center;
+    background-size: 100%;
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title{
+  color: #fff;
+  font-size: 3rem;
+}
+.desc{
+  color: #fff;
+  font-size: 1.5rem;
+}

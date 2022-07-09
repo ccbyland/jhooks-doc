@@ -1,0 +1,35 @@
+.content {
+    padding: 100px 0;
+}
+.features {
+    padding: 20px 0 30px;
+    width: 40%;
+    margin: 0 auto;
+}
+.features_title {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.features_content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+.items {
+    margin-bottom: 0;
+}
+.item {
+    padding-bottom: 10px;
+}
+.item_node {
+    line-height: 20px;
+}
+.features_code {
+    border-radius: 2px;
+    padding: 5px 0 5px 15px;
+}
+.number{
+    padding-left: 20px;
+}
